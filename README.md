@@ -2,7 +2,7 @@
 <h1><em>Olá eu sou a Sabrina</em></h1>
 
 
-- 🔭 Atualmente estou tralhando com Html e Css
+- 🔭 Atualmente estou trabalhando com Html e Css
 - 🌱 Atualmente estou aprendendo JavaScript e Python
 - 📫 How to reach me: sabrinac.web@gmail.com
  <div>
