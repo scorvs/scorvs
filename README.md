@@ -17,5 +17,5 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
 </div>
-  
+  <img align="right" alt="avatar" src="https://cdn.discordapp.com/attachments/690017966007255063/878020988988715079/avatar.png">
   ##
