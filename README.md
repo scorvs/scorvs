@@ -4,7 +4,7 @@
 
 
 - 🔭 Atualmente estou trabalhando com Html e Css
-- 🌱 Atualmente estou aprendendo JavaScript e Python
+- 🌱 Atualmente estou aprendendo JavaScript
 - 📫 How to reach me: sabrinac.web@gmail.com
  <div>
   <a href="https://github.com/scorvs">
