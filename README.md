@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou trabalhando com Html e Css
 - 🌱 Atualmente estou aprendendo JavaScript
-- 📫 How to reach me: sabrinac.web@gmail.com
+<!-- - 📫 How to reach me: sabrinac.web@gmail.com -->
  <div>
   <a href="https://github.com/scorvs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scorvs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
